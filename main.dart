@@ -1,7 +1,7 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'widgets/botoes.dart';
-import 'widgets/text.dart';
+import 'botoes.dart';
+import 'text.dart';
  
 void main() {
   runApp(const MainApp());
